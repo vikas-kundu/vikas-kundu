@@ -1,1 +1,1 @@
-[![Vikas Kundu GitHub stats](https://github-readme-stats.vercel.app/api?username=vikas-kundu)](https://github.com/anuraghazra/github-readme-stats)
+![Vikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikas-kundu&show_icons=true&theme=radical)
