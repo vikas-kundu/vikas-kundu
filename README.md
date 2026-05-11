@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vikas-kundu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Vikas's GitHub stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-kundu&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vikas-kundu&theme=tokyonight" alt="Vikas's GitHub stats" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vikas-kundu&theme=tokyonight" alt="Top Languages" height="180"/>
 
 <img src="https://streak-stats.demolab.com?user=vikas-kundu&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
 
